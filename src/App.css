@@ -1,0 +1,18 @@
+.img{
+  height: 40%;
+  width: 65%;
+}
+
+*{
+  background-color: rgb(14, 21, 27);
+  color: azure;
+}
+
+.data{
+ display: inline-grid;
+ margin: 50px;
+}
+
+img{
+  border-radius: 60px;
+}
